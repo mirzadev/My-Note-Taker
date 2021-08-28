@@ -37,8 +37,8 @@ Every professional should have a something very handy to take a note for his/her
 
 ## Deployed
 
-- \*[Deployed website by Heroku](https://mirzadev.github.io/Team-Profile-Generator/)
-- \*[GitHub Repository](https://github.com/mirzadev/My-Note-Taker/)
+- \*[Deployed website by Heroku](https://note-taker-mirza.herokuapp.com/)
+- \*[GitHub Repository](https://mirzadev.github.io/My-Note-Taker/)
 
 ## Tools
 
