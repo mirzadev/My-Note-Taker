@@ -1,16 +1,3 @@
 [
-  null,
-  {
-    "title": "My Note",
-    "text": "Today I will work on pizza making",
-    "id": {
-      "title": "Test Title",
-      "text": "Test text"
-    }
-  },
-  {
-    "title": "IT Job",
-    "text": "I will finish my spring -2",
-    "id": null
-  }
+
 ]
