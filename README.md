@@ -4,7 +4,7 @@
 
 ## Overview
 
-Every professional should have a something very handy to take a note for his/her daily job. This application "My Note" Taker is aimed to help those professionals to keep a note of their tasks. Using this note one should be able to first write the main task as heading and then description of their task. After writing, the application will give an option to save the noted task. Once the task is completed, the professional should be able to delete the task from the note. 
+Every professional should have a something very handy to take a note for his/her daily job. This application "My Note Taker" is aimed to help those professionals to keep a note of their tasks. Using this note one should be able to first write the main task as heading and then description of their task. After writing, the application will give an option to save the noted task. Once the task is completed, the professional should be able to delete the task from the note. 
 
 ## Table of Contents
 
